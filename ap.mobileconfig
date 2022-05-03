@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<true/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>配置用于移除描述文件的密码</string>
+			<key>PayloadDisplayName</key>
+			<string>移除描述文件</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.profileRemovalPassword.A60A82AC-083B-4AFA-941F-96130C994D76</string>
+			<key>PayloadType</key>
+			<string>com.apple.profileRemovalPassword</string>
+			<key>PayloadUUID</key>
+			<string>A60A82AC-083B-4AFA-941F-96130C994D76</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RemovalPassword</key>
+			<string>13860777765</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.A7C3701D-01F0-484F-9BEC-5B06E598CFE8</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>A7C3701D-01F0-484F-9BEC-5B06E598CFE8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.31.247</string>
+			<key>ProxyServerPort</key>
+			<integer>10809</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>Xiaomi_558A</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>ap代理</string>
+	<key>PayloadIdentifier</key>
+	<string>xinxindeMacBook-Air.DB2BE446-B13F-4E31-BA29-C7970E9B995E</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C20D862C-8119-4668-B84B-B3B5A1DBB94C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
